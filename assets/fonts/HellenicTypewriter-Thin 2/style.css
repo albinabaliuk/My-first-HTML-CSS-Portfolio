@@ -1,0 +1,9 @@
+@font-face {
+    font-family: 'Hellenic Typewriter';
+    src: local('Hellenic Typewriter Thin'), local('Hellenic-Typewriter-Thin'),
+        url('HellenicTypewriter-Thin.woff2') format('woff2'),
+        url('HellenicTypewriter-Thin.woff') format('woff'),
+        url('HellenicTypewriter-Thin.ttf') format('truetype');
+    font-weight: 100;
+    font-style: normal;
+  }
